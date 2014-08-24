@@ -1,0 +1,14 @@
+[user]
+    name =
+    email =
+[push]
+    default = simple
+[core]
+    editor = vim
+[alias]
+    lg = log --graph --oneline
+[color]
+    branch = auto
+    diff = auto
+    status = auto
+
